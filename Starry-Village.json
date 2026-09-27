@@ -9,25 +9,25 @@
   ],
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#0B1330B3"
+      "#05081EE0"
     ],
     "BG_BASE_PRIMARY": [
-      "#0B1330B3"
+      "#05081EE0"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#0B1330B3"
+      "#05081EE0"
     ],
     "CHAT_BACKGROUND": [
-      "#0B1330B3"
+      "#05081EE0"
     ],
     "BACKGROUND_BASE_LOW": [
-      "#0B1330B3"
+      "#05081EE0"
     ],
     "CHANNEL_BACKGROUND_DEFAULT": [
-      "#0B1330B3"
+      "#05081EE0"
     ],
     "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
-      "#0B1330B3"
+      "#05081EE0"
     ],
     "BACKGROUND_SECONDARY": [
       "#14204ACC"
@@ -413,4 +413,4 @@
     "blur": 0,
     "alpha": 1
   }
-  }
+}
