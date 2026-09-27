@@ -9,25 +9,25 @@
   ],
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#05081EE0"
+      "#04050FF0"
     ],
     "BG_BASE_PRIMARY": [
-      "#05081EE0"
+      "#04050FF0"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#05081EE0"
+      "#04050FF0"
     ],
     "CHAT_BACKGROUND": [
-      "#05081EE0"
+      "#04050FF0"
     ],
     "BACKGROUND_BASE_LOW": [
-      "#05081EE0"
+      "#04050FF0"
     ],
     "CHANNEL_BACKGROUND_DEFAULT": [
-      "#05081EE0"
+      "#04050FF0"
     ],
     "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
-      "#05081EE0"
+      "#04050FF0"
     ],
     "BACKGROUND_SECONDARY": [
       "#14204ACC"
@@ -411,6 +411,6 @@
   "background": {
     "url": "https://i.supaimg.com/e5a5eeaa-1ba1-4d42-9d6f-572c16526eab/f6de8a56-0ca4-472e-a840-6bacd8204977.jpg",
     "blur": 0,
-    "alpha": 1
+    "alpha": 0.55
   }
 }
